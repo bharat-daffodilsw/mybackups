@@ -1,0 +1,16 @@
+//var onScrollRefreshArray= onScrollRefreshArray || [];
+var onScrollRefreshArray= onScrollRefreshArray || [];
+var onScrOll = new Object();
+onScrOll.code = "PCEtLSBNZXRyaWMgU2NpZW5jZSAtIEFjdGl2aXR5IFZpbGxhZ2UgLSBTa3kgLS0+CjxkaXY+CjwhLS0gc3RhcnQgb2YgY3JlYXRpdmUgY29udGVudCAtLT4KPCEtLSBCRUdJTiBKUyBUQUcgLSBPblNjcm9sbCAtIEFjdGl2aXR5IFZpbGxhZ2UgLSBTa3kgMTYweDYwMCA8IC0gRE8gTk9UIE1PRElGWSAtLT4NCjxTQ1JJUFQgU1JDPSJodHRwOi8vYWQubmV0Y29tbXVuaXRpZXMuY29tL3R0aj9pZD0yMjYwOTkwIiBUWVBFPSJ0ZXh0L2phdmFzY3JpcHQiPjwvU0NSSVBUPg0KPCEtLSBFTkQgVEFHIC0tPgo8IS0tIGVuZCBvZiBjcmVhdGl2ZSBjb250ZW50IC0tPgo8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+Cih3aW5kb3cuX3RyYWNrZXIgPSAod2luZG93Ll90cmFja2VyIHx8IFtdKSkucHVzaCh7CiAgY2FtcGFpZ25JZDogJzUyZmJiMDNjNmNhZTdjMGQwMzAwMDAwNScsCiAgY3JlYXRpdmVJZDogJzUyZmJiMDVlNmNhZTdjMGQwMzAwMDAwNycsCiAgYWNjb3VudElkOiAnNTJmYmIwMmE2Y2FlN2MwZDAzMDAwMDA0Jwp9KTsKPC9zY3JpcHQ+CjxzY3JpcHQgc3JjPSJodHRwOi8vY2RuLm9uc2Nyb2xsLmNvbS9tcy5vcy5qcyI+PC9zY3JpcHQ+CjwvZGl2Pgo8IS0tIEVuZCBvZiB0YWcgLSAtLT4=";
+onScrOll.margin = 0;
+onScrOll.mode = "sticky";
+onScrOll.test = "three";
+onScrOll.height = 250;
+onScrOll.width = 300;
+onScrOll.marginTop = 0;
+onScrOll.refreshTime = 15;
+onScrOll.placeholder = "three";
+onScrOll.onPageLoad=true
+onScrollRefreshArray.push(onScrOll);
+
+
